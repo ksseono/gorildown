@@ -1,7 +1,7 @@
 # gorildown
 
 * Write raw Markdown from [Gorilla REPL](http://gorilla-repl.org)
-* Almost of the work has done here([gorilla-to-markdown.clj](https://gist.github.com/timothyrenner/3902af1df1671f1f8fc3#file-gorilla-to-markdown-clj)). Thanks [Timothy Renner](https://github.com/timothyrenner)!
+* Almost of the work has done [here](https://gist.github.com/timothyrenner/3902af1df1671f1f8fc3#file-gorilla-to-markdown-clj). Thanks to [Timothy Renner](https://github.com/timothyrenner).
 
 ## Usage
 
