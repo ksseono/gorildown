@@ -6,4 +6,6 @@
   :dependencies [[org.clojure/clojure "1.8.0"]
                  [cheshire "5.8.0"]
                  [hickory "0.7.1"]]
-  :main gorildown.core)
+  :main gorildown.core
+
+  :lein-release {:deploy-via :clojars})
